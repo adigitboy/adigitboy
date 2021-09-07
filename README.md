@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adigitboy
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack
-- 💞️ I’m looking to collaborate on wed development
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me hre
 
 
